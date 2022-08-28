@@ -1,0 +1,33 @@
+{
+  "name": "js-learning",
+  "version": "1.0.0",
+  "description": "Here there will be some tasks for JS.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyzym/JS-learning.git"
+  },
+  "author": "Denis <kyzym1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyzym/JS-learning/issues"
+  },
+  "homepage": "https://github.com/kyzym/JS-learning#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.1",
+    "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
